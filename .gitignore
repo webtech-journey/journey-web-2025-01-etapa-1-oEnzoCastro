@@ -1,2 +1,2 @@
-temp_files
-.env
+/temp_files
+secrets.env
